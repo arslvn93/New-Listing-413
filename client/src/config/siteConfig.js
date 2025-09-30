@@ -1,7 +1,7 @@
 /**
  * Site Configuration
  * This file contains all configurable content for the website
- * Last updated: 2025-09-30T18:59:27.379Z
+ * Last updated: 2025-09-30T19:01:15.517Z
  */
 
 // contactInfo configuration
@@ -23,290 +23,6 @@ export const contactInfo = {
   }
 };
 
-// galleryImages configuration
-export const galleryImages = [
-  {
-    id: 1,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465470-001.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "interior"
-  },
-  {
-    id: 2,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465812-003.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "kitchen"
-  },
-  {
-    id: 3,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465992-008.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bedroom"
-  },
-  {
-    id: 4,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258466205-009.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bathroom"
-  },
-  {
-    id: 5,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258466399-010.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "exterior"
-  },
-  {
-    id: 6,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258466609-012.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "interior"
-  },
-  {
-    id: 7,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258466813-013.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "kitchen"
-  },
-  {
-    id: 8,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258467026-017.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bedroom"
-  },
-  {
-    id: 9,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258467383-018.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bathroom"
-  },
-  {
-    id: 10,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258467611-019.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "exterior"
-  },
-  {
-    id: 11,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258467834-026.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "interior"
-  },
-  {
-    id: 12,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258468094-028.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "kitchen"
-  },
-  {
-    id: 13,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258468310-030.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bedroom"
-  },
-  {
-    id: 14,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258468558-032.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bathroom"
-  },
-  {
-    id: 15,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258468819-033.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "exterior"
-  },
-  {
-    id: 16,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258469134-035.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "interior"
-  },
-  {
-    id: 17,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258469367-037.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "kitchen"
-  },
-  {
-    id: 18,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258469914-039.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bedroom"
-  },
-  {
-    id: 19,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258470116-040.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bathroom"
-  },
-  {
-    id: 20,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258470385-042.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "exterior"
-  },
-  {
-    id: 21,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258470629-043.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "interior"
-  },
-  {
-    id: 22,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258470846-046.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "kitchen"
-  },
-  {
-    id: 23,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258471262-047.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bedroom"
-  },
-  {
-    id: 24,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258471509-048.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bathroom"
-  },
-  {
-    id: 25,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258472537-052.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "exterior"
-  },
-  {
-    id: 26,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258474092-054.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "interior"
-  },
-  {
-    id: 27,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258474435-055.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "kitchen"
-  },
-  {
-    id: 28,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258474699-056.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bedroom"
-  },
-  {
-    id: 29,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258475507-057.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bathroom"
-  },
-  {
-    id: 30,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258476092-058.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "exterior"
-  },
-  {
-    id: 31,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258476385-060.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "interior"
-  },
-  {
-    id: 32,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258476637-061.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "kitchen"
-  },
-  {
-    id: 33,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258477678-062.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bedroom"
-  },
-  {
-    id: 34,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258478498-066.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "bathroom"
-  },
-  {
-    id: 35,
-    src: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258479133-069.jpg",
-    alt: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level at 118 Patterson St N",
-    category: "exterior"
-  }
-];
-
 // heroVideo configuration
 export const heroVideo = {
   url: "https://player.vimeo.com/video/1121520262",
@@ -317,48 +33,16 @@ export const heroVideo = {
   playsInline: true
 };
 
-// homeShowcaseSections configuration  
-export const homeShowcaseSections = [
-  {
-    id: "section1",
-    title: "3 Bedrooms",
-    description: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level. This home is perfect for in-laws or creating a separate unit/living space. 
-",
-    imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465470-001.jpg"
-  },
-  {
-    id: "section2",
-    title: "2 Bathrooms",
-    description: "● New back deck stairs (2025) with a gazebo over the deck",
-    imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465812-003.jpg"
-  },
-  {
-    id: "section3",
-    title: "1233 SqFt",
-    description: "",
-    imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465992-008.jpg"
-  },
-  {
-    id: "section4",
-    title: "$$959,900",
-    description: "● Stunning sunroom – perfect for morning coffee or year-round enjoyment",
-    imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258466205-009.jpg"
-  }
-];
-
 // neighborhood configuration
 export const neighborhood = {
-  name: "Beeton",
+  name: "Beeton Community",
   city: "Beeton",
-  description: "Beeton's premier destination for culture, dining, and urban living.",
+  description: "Beeton Community is a close‑knit small town celebrated for its annual Honey and Garden Festival and strong local agriculture roots. Residents enjoy easy access to scenic walking and equestrian routes along the Trans Canada Trail, a selection of cozy cafes and family‑friendly dining on Main Street, and year‑round recreational options with nearby Lake Simcoe.",
   highlights: [
-    "Steps to theaters, dining, and entertainment venues",
-    "Direct access to PATH underground walkway", 
-    "TTC subway and streetcar connections",
-    "Walk to financial district and shopping",
-    "Vibrant urban lifestyle with excellent walk score"
+    "Banting Heritage Park, celebrating Sir Frederick Banting's legacy",
+    "Tottenham Conservation Area with wildlife views, fishing, and camping",
+    "Museum on the Boyne showcasing local history and cultural artifacts",
+    "Annual Beeton Honey and Garden Festival celebrating local horticulture and honey"
   ]
 };
 
@@ -366,45 +50,59 @@ export const neighborhood = {
 export const neighborhoodAmenities = [
   {
     id: 1,
-    name: "Local Grocery Store",
-    distance: "0.2 miles",
+    name: "Lickity Split Ice Cream in Beeton",
+    distance: "",
     category: "shopping",
     iconName: "ShoppingBag"
   },
   {
     id: 2,
-    name: "Nearby Park",
-    distance: "0.1 miles", 
+    name: "Tottenham Conservation Area",
+    distance: "",
     category: "recreation",
     iconName: "Leaf"
   },
   {
     id: 3,
-    name: "Public School",
-    distance: "0.6 miles",
-    category: "education", 
+    name: "Museum on the Boyne",
+    distance: "",
+    category: "education",
     iconName: "School"
   },
   {
     id: 4,
-    name: "Fine Dining",
-    distance: "0.2 miles",
+    name: "Country Style (Coffee shop)",
+    distance: "",
     category: "dining",
-    iconName: "Wine"
+    iconName: "Coffee"
   },
   {
     id: 5,
-    name: "Casual Dining",
-    distance: "0.4 miles",
+    name: "Henriette (Restaurant)",
+    distance: "",
     category: "dining",
     iconName: "Utensils"
   },
   {
     id: 6,
-    name: "Transit Station",
-    distance: "0.4 miles",
+    name: "Barrie St. @ Holland St. W. (Bus stop)",
+    distance: "",
     category: "transportation",
-    iconName: "Train"
+    iconName: "Car"
+  },
+  {
+    id: 7,
+    name: "Tecumseth Fairy Land",
+    distance: "",
+    category: "recreation",
+    iconName: "Users"
+  },
+  {
+    id: 8,
+    name: "Landmark Bus Lines",
+    distance: "",
+    category: "business",
+    iconName: "Wifi"
   }
 ];
 
@@ -413,34 +111,26 @@ export const neighborhoodStats = [
   {
     id: 1,
     title: "Walk Score",
-    value: "95/100",
-    caption: "Walker's Paradise",
+    value: "55/100",
+    caption: "Somewhat Walkable",
     iconName: "BadgeCheck",
     color: "bg-green-500"
   },
   {
     id: 2,
-    title: "Transit Score", 
-    value: "94/100",
-    caption: "Excellent Transit",
+    title: "Transit Score",
+    value: "N/A",
+    caption: "Some Transit",
     iconName: "Compass",
     color: "bg-blue-500"
   },
   {
     id: 3,
-    title: "School Rating",
-    value: "8/10", 
-    caption: "Great Schools",
-    iconName: "School",
-    color: "bg-indigo-500"
-  },
-  {
-    id: 4,
-    title: "Commute Time",
-    value: "8 min",
-    caption: "To Financial District",
-    iconName: "Clock", 
-    color: "bg-amber-500"
+    title: "BikeScore",
+    value: "51/100",
+    caption: "Bikeable",
+    iconName: "Compass",
+    color: "bg-blue-500"
   }
 ];
 
@@ -460,7 +150,7 @@ export const openHouseBenefits = [
   },
   {
     id: 3,
-    title: "School District Information", 
+    title: "School District Information",
     description: "Simcoe County District School Board (SCDSB). Tecumseth Beeton Elementary School, Monsignor J E Ronan Catholic School, St. Thomas Aquinas Catholic Secondary School and Banting Memorial High School.",
     iconName: "GraduationCap"
   },
@@ -494,7 +184,12 @@ export const openHouseDetails = {
   ctaText: "RSVP for Open House",
   virtualTourAvailable: false,
   virtualTourUrl: "",
-  allOpenHouses: [{"date":"Saturday, October 4, 2025","time":"2:00 PM - 4:00 PM"}]
+  allOpenHouses: [
+    {
+      date: "Saturday, October 4, 2025",
+      time: "2:00 PM - 4:00 PM"
+    }
+  ]
 };
 
 // packageItems configuration
@@ -513,7 +208,7 @@ export const packageItems = [
   },
   {
     id: 3,
-    title: "School District Information", 
+    title: "School District Information",
     description: "Simcoe County District School Board (SCDSB). Tecumseth Beeton Elementary School, Monsignor J E Ronan Catholic School, St. Thomas Aquinas Catholic Secondary School and Banting Memorial High School.",
     iconName: "GraduationCap"
   },
@@ -536,33 +231,6 @@ export const packageItems = [
     iconName: "Map"
   }
 ];
-
-// property configuration
-export const property = {
-  name: "118 Patterson St N",
-  address: {
-    street: "118 Patterson St N",
-    city: "Beeton",
-    state: "ON",
-    zip: "L0G1A0",
-    country: "Canada"
-  },
-  price: "$959,900",
-  beds: 3,
-  baths: 2,
-  sqft: 1233,
-  lotSize: "30 x 120 ft",
-  yearBuilt: 2010,
-  type: "Detached",
-  status: "For Sale",
-  description: "Sunroom, Skylight, perfect location!! location, location, location! Steps from town, schools and more! ",
-  shortDescription: "3 BEDS + 2 BATHS in Beeton",
-  longDescription: "- Generous Lot with mature trees!  - Stunning sunroom, very unique - Skylight in the kitchen  - Backyard Oasis with fenced area, hot tub, 3 sheds, 2 garden sheds and 1 "man cave" with bar, wood stove, ventilation system and hydro!  - Country feel, steps from town! ",
-  mainFeatures: [],
-  propertyType: "Detached",
-  heroImage: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465470-001.jpg",
-  heroCaption: "Sunroom + Hot Tub + Man Cave = Your Perfect Family Home Just Listed!"
-};
 
 // propertyFeatures configuration
 export const propertyFeatures = [
@@ -589,7 +257,7 @@ export const siteBranding = {
   favicon: "/favicon.ico",
   colors: {
     primary: "#D9A566",
-    primaryDark: "#8B6839", 
+    primaryDark: "#8B6839",
     primaryLight: "#E6C38C",
     dark: "#111111",
     light: "#FFFFFF"
@@ -617,7 +285,7 @@ export const testimonials = [
   {
     id: 1,
     name: "David Chen",
-    role: "Recent Homebuyer", 
+    role: "Recent Homebuyer",
     content: "Maddison Dombroski provided exceptional service and found us exactly what we were looking for in Beeton.",
     avatar: "https://randomuser.me/api/portraits/men/22.jpg"
   },
@@ -630,9 +298,10 @@ export const testimonials = [
   },
   {
     id: 3,
-    name: "Mark Williams", 
+    name: "Mark Williams",
     role: "Neighborhood Resident",
     content: "Living in this area, you appreciate the convenience and lifestyle. Maddison Dombroski knows the market incredibly well.",
     avatar: "https://randomuser.me/api/portraits/men/35.jpg"
   }
 ];
+
