@@ -1,7 +1,7 @@
 /**
  * Site Configuration
  * This file contains all configurable content for the website
- * Last updated: 2025-10-01T18:05:44.201Z
+ * Last updated: 2025-10-01T18:15:50.648Z
  */
 
 // contactInfo configuration
@@ -252,10 +252,7 @@ export const homeShowcaseSections = [
   {
     id: "section1",
     title: "3 Bedrooms",
-    description: "Open concept, unique sunroom! 
-Natural light lots of windows
-There is plenty of room to entertain and have family over, with a second living/dining space in the lower level. This home is perfect for in-laws or creating a separate unit/living space. 
-",
+    description: "Open concept, unique sunroom!  Natural light lots of windows There is plenty of room to entertain and have family over, with a second living/dining space in the lower level. This home is perfect for in-laws or creating a separate unit/living space.  ",
     imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465470-001.jpg"
   },
   {
@@ -267,7 +264,7 @@ There is plenty of room to entertain and have family over, with a second living/
   {
     id: "section3",
     title: "1233 SqFt",
-    description: "",
+    description: "Spacious living area with ample room for your lifestyle",
     imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465992-008.jpg"
   },
   {
