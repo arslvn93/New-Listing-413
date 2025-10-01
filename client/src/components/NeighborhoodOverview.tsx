@@ -56,21 +56,25 @@ const NeighborhoodOverview = () => {
     color: stat.color.startsWith('#') ? stat.color : `#${stat.color.replace('bg-', '')}`
   }));
 
-  // Only show the three desired stats: Walk Score, Transit Score, Bike Score
-  const desiredTitles = new Set(["Walk Score", "Transit Score", "Bike Score"]);
-  const displayStats: NeighborhoodStat[] = neighborhoodStats.filter((stat) => desiredTitles.has(stat.title));
+  // Only show the three desired stats in this exact order with robust matching
+  const normalizeTitle = (t: string) => t.toLowerCase().replace(/\s+/g, '').trim();
+  const desiredOrder = ["walkscore", "transitscore", "bikescore"];
 
-  // If Bike Score is missing from config, add a graceful fallback card
-  if (!displayStats.some((s) => s.title === "Bike Score")) {
-    displayStats.push({
-      id: 999,
-      title: "Bike Score",
-      value: "N/A",
-      caption: undefined,
-      icon: <Navigation className="h-8 w-8" />,
-      color: siteBranding.colors.primary
-    });
-  }
+  const displayStats: NeighborhoodStat[] = desiredOrder.map((desired) => {
+    const found = neighborhoodStats.find((s) => normalizeTitle(s.title) === desired);
+    if (found) return found;
+    if (desired === "bikescore") {
+      return {
+        id: 999,
+        title: "Bike Score",
+        value: "N/A",
+        caption: undefined,
+        icon: <Navigation className="h-8 w-8" />,
+        color: siteBranding.colors.primary
+      };
+    }
+    return undefined as unknown as NeighborhoodStat;
+  }).filter(Boolean) as NeighborhoodStat[];
   
   // Transform the config amenities to include React components
   const nearbyAmenities: Amenity[] = configAmenities.map(amenity => ({
