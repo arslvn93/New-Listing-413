@@ -1,7 +1,7 @@
 /**
  * Site Configuration
  * This file contains all configurable content for the website
- * Last updated: 2025-10-01T18:15:50.648Z
+ * Last updated: 2025-10-01T18:18:55.220Z
  */
 
 // contactInfo configuration
@@ -484,7 +484,7 @@ export const property = {
   status: "For Sale",
   description: "Sunroom, Skylight, perfect location!! location, location, location! Steps from town, schools and more! ",
   shortDescription: "3 BEDS + 2 BATHS in Beeton",
-  longDescription: "- Generous Lot with mature trees!  - Stunning sunroom, very unique - Skylight in the kitchen  - Backyard Oasis with fenced area, hot tub, 3 sheds, 2 garden sheds and 1 "man cave" with bar, wood stove, ventilation system and hydro!  - Country feel, steps from town! ",
+longDescription: "- Generous Lot with mature trees!  - Stunning sunroom, very unique - Skylight in the kitchen  - Backyard Oasis with fenced area, hot tub, 3 sheds, 2 garden sheds and 1 \"man cave\" with bar, wood stove, ventilation system and hydro!  - Country feel, steps from town! ",
   mainFeatures: [],
   propertyType: "Detached",
   heroImage: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1759258465470-001.jpg",
