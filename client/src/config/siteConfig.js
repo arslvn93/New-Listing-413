@@ -1,7 +1,7 @@
 /**
  * Site Configuration
  * This file contains all configurable content for the website
- * Last updated: 2026-11-06T22:55:32.964Z
+ * Last updated: 2026-11-06T22:56:13.198Z
  */
 
 // contactInfo configuration
