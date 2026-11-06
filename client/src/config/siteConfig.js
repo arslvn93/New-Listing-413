@@ -1,7 +1,7 @@
 /**
  * Site Configuration
  * This file contains all configurable content for the website
- * Last updated: 2026-11-06T22:56:13.198Z
+ * Last updated: 2026-11-06T22:56:14.845Z
  */
 
 // contactInfo configuration
@@ -500,7 +500,7 @@ export const property = {
       zip: "L0G1A0",
       country: "Canada"
     },
-    price: "111111",
+    price: "$959,900",
     beds: 3,
     baths: 2,
     sqft: 1233,
@@ -508,7 +508,8 @@ export const property = {
     yearBuilt: 2010,
     type: "Detached",
     status: "For Sale",
-    description: "Sunroom, Skylight, perfect location!! location, location, location! Steps from town, schools and more! ",
+    description: "line1
+line2",
     shortDescription: "3 BEDS + 2 BATHS in Beeton",
     longDescription: "- Generous Lot with mature trees!  - Stunning sunroom, very unique - Skylight in the kitchen  - Backyard Oasis with fenced area, hot tub, 3 sheds, 2 garden sheds and 1 \"man cave\" with bar, wood stove, ventilation system and hydro!  - Country feel, steps from town! ",
     mainFeatures: [],
